@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+body{
+    background-color: #f5ede6;
+    font-family: Arial, Helvetica, sans-serif,
+    /* font-optical-sizing: auto, */
+  /* font-weight: <weight>, */
+  /* font-style: normal; */
+}
+
+/* .wix-madefor-display {
+  font-family: "Wix Madefor Display", sans-serif,
+  font-optical-sizing: auto,
+  font-weight: <weight>,
+  font-style: normal;
+} */
+
+/* {color : #f9fafa}  */ 
+/* BG */
+/* #20303c */
+/* color  */
+/* font : 14px */
+
+/* font-family: Madefor, Helvetica Neue, Helvetica, Arial, メイリオ, meiryo, ヒラギノ角ゴ pro w3, hiragino kaku gothic pro, sans-serif; */
+
+/* line height : 1.5 */
