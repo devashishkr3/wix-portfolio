@@ -3,7 +3,7 @@ import Section from "./components/Section";
 
 export default function App() {
   return (
-    <div className="bg-[#f6eee8] min-h-screen font-[Georgia,serif] text-[#1e1b4b]">
+    <div className="min-h-screen font-[Georgia,serif] text-[#1e1b4b]">
       <Navbar />
       <main className="lg:ml-48 pt-14 lg:pt-0 h-screen lg:h-auto overflow-y-auto">
         <Section
@@ -49,7 +49,6 @@ export default function App() {
     </div>
   );
 }
-
 
 // import Navbar from "./components/Navbar";
 // import Section from "./components/Section";
