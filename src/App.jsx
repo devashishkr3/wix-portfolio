@@ -16,9 +16,6 @@ export default function App() {
       <Navbar />
       <main className="pt-20">
         <Hero />
-        <Section id="projects" title="Projects">
-          <Projects />
-        </Section>
         <Section id="about" title="About">
           <About />
         </Section>
@@ -27,6 +24,9 @@ export default function App() {
         </Section>
         <Section id="experience" title="Experience">
           <Experience />
+        </Section>
+        <Section id="projects" title="Projects">
+          <Projects />
         </Section>
         <Section id="blog" title="Blog">
           <Blog />

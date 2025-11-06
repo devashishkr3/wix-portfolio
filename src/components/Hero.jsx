@@ -16,7 +16,7 @@ export default function Hero() {
           className="w-full lg:w-1/3 text-center lg:text-left"
         >
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold text-[#191733]">
-            Your Name
+            Devashish Kumar
           </h1>
           <p className="mt-3 text-[#191733]/70 text-lg">Web Developer</p>
           <p className="mt-6 text-[#191733]/60">
