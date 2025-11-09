@@ -20,18 +20,18 @@ export default function App() {
         <Section id="about" title="About">
           <About />
         </Section>
+        <Section id="skills" title="Skills">
+          <Skills />
+        </Section>
         <Section id="projects" title="Projects">
           <Projects />
         </Section>
-        {/* <Section id="skills" title="Skills">
-          <Skills />
-        </Section> */}
         <Section id="experience" title="Experience">
           <Experience />
         </Section>
-        <Section id="projects" title="Projects">
+        {/* <Section id="projects" title="Projects">
           <Projects />
-        </Section>
+        </Section> */}
         <Section id="blog" title="Blog">
           <Blog />
         </Section>
