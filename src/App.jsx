@@ -16,12 +16,16 @@ export default function App() {
       <Navbar />
       <main className="pt-20">
         <Hero />
+
         <Section id="about" title="About">
           <About />
         </Section>
-        <Section id="skills" title="Skills">
-          <Skills />
+        <Section id="projects" title="Projects">
+          <Projects />
         </Section>
+        {/* <Section id="skills" title="Skills">
+          <Skills />
+        </Section> */}
         <Section id="experience" title="Experience">
           <Experience />
         </Section>
