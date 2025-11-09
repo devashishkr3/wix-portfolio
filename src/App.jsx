@@ -17,9 +17,9 @@ export default function App() {
       <main className="pt-20">
         <Hero />
 
-        <Section id="about" title="About">
-          <About />
-        </Section>
+        {/* <Section id="about" title="About"> */}
+        <About />
+        {/* </Section> */}
         <Section id="skills" title="Skills">
           <Skills />
         </Section>
